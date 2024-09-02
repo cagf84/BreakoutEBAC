@@ -1,38 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\",
+  "WorkspaceRootPath": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_scriptable_objects\\puntajepersistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_scriptable_objects\\puntajepersistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuprincipal\\administradorvidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuprincipal\\administradorvidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|c:\\users\\andres\\onedrive\\repositorio\\github\\breakoutebac\\assets\\_scriptable_objects\\administradordepersistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_scriptable_objects\\administradordepersistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|c:\\users\\cgodoy\\onedrive\\repositorio\\github\\breakoutebac\\assets\\_script\\bloque_madera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\bloque_madera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|c:\\users\\andres\\onedrive\\repositorio\\github\\breakoutebac\\assets\\_script\\puntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\puntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\bloque_piedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\bloque_piedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_scriptable_objects\\puntajealto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_scriptable_objects\\puntajealto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\controlbordes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\controlbordes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\muestraeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\muestraeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\muestrasuscriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\muestrasuscriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\bola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\bola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\bola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuprincipal\\administradorbloques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuprincipal\\administradorbloques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuprincipal\\menufinnivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuprincipal\\menufinnivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuprincipal\\menupausa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuprincipal\\menupausa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuprincipal\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuprincipal\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuopciones\\slidervelocidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuopciones\\slidervelocidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuopciones\\dropdowndificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuopciones\\dropdowndificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_scriptable_objects\\menuprincipal\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_scriptable_objects\\menuprincipal\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,106 +66,177 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdministradorDePersistencia.cs",
-              "DocumentMoniker": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Scriptable_Objects\\AdministradorDePersistencia.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scriptable_Objects\\AdministradorDePersistencia.cs",
-              "ToolTip": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Scriptable_Objects\\AdministradorDePersistencia.cs",
-              "RelativeToolTip": "Assets\\_Scriptable_Objects\\AdministradorDePersistencia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T05:58:16.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Puntaje.cs",
-              "DocumentMoniker": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Puntaje.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\Puntaje.cs",
-              "ToolTip": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Puntaje.cs",
-              "RelativeToolTip": "Assets\\_Script\\Puntaje.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwDkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T04:42:06.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PuntajePersistente.cs",
-              "DocumentMoniker": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Scriptable_Objects\\PuntajePersistente.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scriptable_Objects\\PuntajePersistente.cs",
-              "ToolTip": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Scriptable_Objects\\PuntajePersistente.cs",
-              "RelativeToolTip": "Assets\\_Scriptable_Objects\\PuntajePersistente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Title": "AdministradorVidas.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\AdministradorVidas.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\MenuPrincipal\\AdministradorVidas.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\AdministradorVidas.cs",
+              "RelativeToolTip": "Assets\\_Script\\MenuPrincipal\\AdministradorVidas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T05:39:27.551Z",
+              "WhenOpened": "2024-09-02T04:13:02.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PuntajeAlto.cs",
-              "DocumentMoniker": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Scriptable_Objects\\PuntajeAlto.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scriptable_Objects\\PuntajeAlto.cs",
-              "ToolTip": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Scriptable_Objects\\PuntajeAlto.cs",
-              "RelativeToolTip": "Assets\\_Scriptable_Objects\\PuntajeAlto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "DocumentIndex": 6,
+              "Title": "AdministradorBloques.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\AdministradorBloques.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\MenuPrincipal\\AdministradorBloques.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\AdministradorBloques.cs",
+              "RelativeToolTip": "Assets\\_Script\\MenuPrincipal\\AdministradorBloques.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T05:15:11.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MuestraSuscriptor.cs",
-              "DocumentMoniker": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MuestraSuscriptor.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\MuestraSuscriptor.cs",
-              "ToolTip": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MuestraSuscriptor.cs",
-              "RelativeToolTip": "Assets\\_Script\\MuestraSuscriptor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T04:18:36.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MuestraEventos.cs",
-              "DocumentMoniker": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MuestraEventos.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\MuestraEventos.cs",
-              "ToolTip": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MuestraEventos.cs",
-              "RelativeToolTip": "Assets\\_Script\\MuestraEventos.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T04:09:39.643Z"
+              "WhenOpened": "2024-09-02T04:10:23.329Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "MenuFinNivel.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\MenuFinNivel.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\MenuPrincipal\\MenuFinNivel.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\MenuFinNivel.cs",
+              "RelativeToolTip": "Assets\\_Script\\MenuPrincipal\\MenuFinNivel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:02:46.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\MenuPrincipal\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\MenuPrincipal.cs",
+              "RelativeToolTip": "Assets\\_Script\\MenuPrincipal\\MenuPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T03:48:25.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuPausa.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\MenuPausa.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\MenuPrincipal\\MenuPausa.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\MenuPausa.cs",
+              "RelativeToolTip": "Assets\\_Script\\MenuPrincipal\\MenuPausa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T02:43:21.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SliderVelocidad.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuOpciones\\SliderVelocidad.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\MenuOpciones\\SliderVelocidad.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuOpciones\\SliderVelocidad.cs",
+              "RelativeToolTip": "Assets\\_Script\\MenuOpciones\\SliderVelocidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:12:52.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DropDownDificultad.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuOpciones\\DropDownDificultad.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\MenuOpciones\\DropDownDificultad.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuOpciones\\DropDownDificultad.cs",
+              "RelativeToolTip": "Assets\\_Script\\MenuOpciones\\DropDownDificultad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:09:24.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControlBordes.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\ControlBordes.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\ControlBordes.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\ControlBordes.cs",
+              "RelativeToolTip": "Assets\\_Script\\ControlBordes.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:55:07.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bola.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bola.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\Bola.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bola.cs",
+              "RelativeToolTip": "Assets\\_Script\\Bola.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T03:29:42.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Opciones.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Scriptable_Objects\\MenuPrincipal\\Opciones.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scriptable_Objects\\MenuPrincipal\\Opciones.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Scriptable_Objects\\MenuPrincipal\\Opciones.cs",
+              "RelativeToolTip": "Assets\\_Scriptable_Objects\\MenuPrincipal\\Opciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:23:10.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bloque.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\Bloque.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque.cs",
+              "RelativeToolTip": "Assets\\_Script\\Bloque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:53:07.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Jugador.cs",
-              "DocumentMoniker": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Jugador.cs",
               "RelativeDocumentMoniker": "Assets\\_Script\\Jugador.cs",
-              "ToolTip": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Jugador.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Jugador.cs",
               "RelativeToolTip": "Assets\\_Script\\Jugador.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwC4AAAAIAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T03:07:56.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Bola.cs",
-              "DocumentMoniker": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bola.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\Bola.cs",
-              "ToolTip": "C:\\Users\\ANDRES\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bola.cs",
-              "RelativeToolTip": "Assets\\_Script\\Bola.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Bloque_Piedra.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque_Piedra.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\Bloque_Piedra.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque_Piedra.cs",
+              "RelativeToolTip": "Assets\\_Script\\Bloque_Piedra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T03:43:20.264Z"
+              "WhenOpened": "2024-08-28T03:04:46.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bloque_Madera.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque_Madera.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\Bloque_Madera.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque_Madera.cs",
+              "RelativeToolTip": "Assets\\_Script\\Bloque_Madera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T03:03:52.98Z",
+              "EditorCaption": ""
             }
           ]
         }

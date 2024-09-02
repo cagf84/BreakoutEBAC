@@ -364,11 +364,12 @@
 "Assets/_Script/Bloque_Madera.cs"
 "Assets/_Script/Bloque_Piedra.cs"
 "Assets/_Script/Bola.cs"
+"Assets/_Script/ControlBordes.cs"
 "Assets/_Script/Jugador.cs"
 "Assets/_Script/MuestraEventos.cs"
 "Assets/_Script/MuestraSuscriptor.cs"
-"Assets/_Script/Puntaje.cs"
 "Assets/_Scriptable_Objects/AdministradorDePersistencia.cs"
+"Assets/_Scriptable_Objects/Puntaje.cs"
 "Assets/_Scriptable_Objects/PuntajeAlto.cs"
 "Assets/_Scriptable_Objects/PuntajePersistente.cs"
 -langversion:9.0

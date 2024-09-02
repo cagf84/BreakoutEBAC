@@ -64,13 +64,22 @@
     <Compile Include="Assets\_Scriptable_Objects\PuntajeAlto.cs" />
     <Compile Include="Assets\_Scriptable_Objects\PuntajePersistente.cs" />
     <Compile Include="Assets\_Script\Bloque_Piedra.cs" />
+    <Compile Include="Assets\_Scriptable_Objects\MenuPrincipal\Opciones.cs" />
     <Compile Include="Assets\_Script\Puntaje.cs" />
+    <Compile Include="Assets\_Script\MenuPrincipal\MenuPausa.cs" />
+    <Compile Include="Assets\_Script\MenuPrincipal\AdministradorBloques.cs" />
+    <Compile Include="Assets\_Script\ControlBordes.cs" />
     <Compile Include="Assets\_Script\Bloque_Madera.cs" />
     <Compile Include="Assets\_Script\MuestraSuscriptor.cs" />
+    <Compile Include="Assets\_Script\AdministradorDePersistencia.cs" />
     <Compile Include="Assets\_Script\Bloque.cs" />
     <Compile Include="Assets\_Script\Jugador.cs" />
-    <Compile Include="Assets\_Scriptable_Objects\AdministradorDePersistencia.cs" />
+    <Compile Include="Assets\_Script\MenuPrincipal\MenuFinNivel.cs" />
+    <Compile Include="Assets\_Script\MenuOpciones\DropDownDificultad.cs" />
+    <Compile Include="Assets\_Script\MenuPrincipal\AdministradorVidas.cs" />
     <Compile Include="Assets\_Script\Bola.cs" />
+    <Compile Include="Assets\_Script\MenuOpciones\SliderVelocidad.cs" />
+    <Compile Include="Assets\_Script\MenuPrincipal\MenuPrincipal.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
