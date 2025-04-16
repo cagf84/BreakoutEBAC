@@ -20,6 +20,15 @@ public class AdministradorVidas : MonoBehaviour
         }
     }
 
+/**
+    * Funcion para administrar la cantidad de vidas que nos quedan
+    * 
+    *_Parametros_
+    * 
+    * __Ninguno__
+    * 
+*/
+
     public void EliminarVida()
     {
         var objetoAEliminar = vidas[vidas.Count - 1];

@@ -377,9 +377,9 @@
 "Assets/_Script/MuestraEventos.cs"
 "Assets/_Script/MuestraSuscriptor.cs"
 "Assets/_Script/Puntaje.cs"
-"Assets/_Scriptable_Objects/MenuPrincipal/Opciones.cs"
-"Assets/_Scriptable_Objects/PuntajeAlto.cs"
-"Assets/_Scriptable_Objects/PuntajePersistente.cs"
+"Assets/_Script/_Scriptable_Objects/MenuPrincipal/Opciones.cs"
+"Assets/_Script/_Scriptable_Objects/PuntajeAlto.cs"
+"Assets/_Script/_Scriptable_Objects/PuntajePersistente.cs"
 -langversion:9.0
 /deterministic
 /optimize-
