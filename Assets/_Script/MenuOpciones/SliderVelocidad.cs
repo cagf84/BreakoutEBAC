@@ -14,6 +14,14 @@ public class SliderVelocidad : MonoBehaviour
         slider.onValueChanged.AddListener(delegate { ControlarCambios(); });
     }
 
+/**
+    * Administra la velocidad de la bola: \n
+    * 
+    *_Parametros_
+    * 
+    * __Ninguno__
+    * 
+*/
     public void ControlarCambios()
     {
         opciones.CambiarVelocidad(slider.value);

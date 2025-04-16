@@ -15,6 +15,7 @@ public class ControlBordes : MonoBehaviour
     public float altoCamara;
     public bool salioDerecha, salioIzquierda, salioArriba, salioAbajo;
 
+
     public void Awake()
     {
         altoCamara = Camera.main.orthographicSize;

@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\bloque_madera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\bloque_madera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_scriptable_objects\\menuprincipal\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_scriptable_objects\\menuprincipal\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\bloque_piedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\bloque_piedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\controlbordes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\controlbordes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\bola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\bola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|c:\\users\\cgodoy\\onedrive\\repositorio\\github\\breakoutebac\\assets\\_script\\menuprincipal\\administradorvidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuprincipal\\administradorvidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuprincipal\\administradorvidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuopciones\\slidervelocidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuopciones\\slidervelocidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|c:\\users\\cgodoy\\onedrive\\repositorio\\github\\breakoutebac\\assets\\_script\\menuprincipal\\administradorbloques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuprincipal\\administradorbloques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuprincipal\\menufinnivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuprincipal\\menufinnivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|c:\\users\\cgodoy\\onedrive\\repositorio\\github\\breakoutebac\\assets\\_script\\puntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\puntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuprincipal\\menupausa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuprincipal\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuopciones\\slidervelocidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuopciones\\slidervelocidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuopciones\\dropdowndificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuopciones\\dropdowndificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_scriptable_objects\\menuprincipal\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_scriptable_objects\\menuprincipal\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\assets\\_script\\menuprincipal\\menufinnivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39EB1C-9DE8-CD07-B9EF-F91FA0B36331}|Assembly-CSharp.csproj|solutionrelative:assets\\_script\\menuprincipal\\menufinnivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,34 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdministradorVidas.cs",
-              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\AdministradorVidas.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\MenuPrincipal\\AdministradorVidas.cs",
-              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\AdministradorVidas.cs",
-              "RelativeToolTip": "Assets\\_Script\\MenuPrincipal\\AdministradorVidas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T04:13:02.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AdministradorBloques.cs",
-              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\AdministradorBloques.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\MenuPrincipal\\AdministradorBloques.cs",
-              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\AdministradorBloques.cs",
-              "RelativeToolTip": "Assets\\_Script\\MenuPrincipal\\AdministradorBloques.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T04:10:23.329Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -102,145 +52,100 @@
               "RelativeDocumentMoniker": "Assets\\_Script\\MenuPrincipal\\MenuFinNivel.cs",
               "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\MenuFinNivel.cs",
               "RelativeToolTip": "Assets\\_Script\\MenuPrincipal\\MenuFinNivel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T04:02:46.258Z"
+              "WhenOpened": "2024-09-02T04:02:46.258Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "MenuPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "Assets\\_Script\\MenuPrincipal\\MenuPrincipal.cs",
               "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\MenuPrincipal.cs",
               "RelativeToolTip": "Assets\\_Script\\MenuPrincipal\\MenuPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T03:48:25.191Z"
+              "WhenOpened": "2024-09-02T03:48:25.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "MenuPausa.cs",
               "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\MenuPausa.cs",
               "RelativeDocumentMoniker": "Assets\\_Script\\MenuPrincipal\\MenuPausa.cs",
               "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\MenuPausa.cs",
               "RelativeToolTip": "Assets\\_Script\\MenuPrincipal\\MenuPausa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T02:43:21.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SliderVelocidad.cs",
-              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuOpciones\\SliderVelocidad.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\MenuOpciones\\SliderVelocidad.cs",
-              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuOpciones\\SliderVelocidad.cs",
-              "RelativeToolTip": "Assets\\_Script\\MenuOpciones\\SliderVelocidad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T04:12:52.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DropDownDificultad.cs",
-              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuOpciones\\DropDownDificultad.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\MenuOpciones\\DropDownDificultad.cs",
-              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuOpciones\\DropDownDificultad.cs",
-              "RelativeToolTip": "Assets\\_Script\\MenuOpciones\\DropDownDificultad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T04:09:24.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ControlBordes.cs",
-              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\ControlBordes.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\ControlBordes.cs",
-              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\ControlBordes.cs",
-              "RelativeToolTip": "Assets\\_Script\\ControlBordes.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T02:55:07.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Bola.cs",
-              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bola.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\Bola.cs",
-              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bola.cs",
-              "RelativeToolTip": "Assets\\_Script\\Bola.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T03:29:42.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Opciones.cs",
-              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Scriptable_Objects\\MenuPrincipal\\Opciones.cs",
-              "RelativeDocumentMoniker": "Assets\\_Scriptable_Objects\\MenuPrincipal\\Opciones.cs",
-              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Scriptable_Objects\\MenuPrincipal\\Opciones.cs",
-              "RelativeToolTip": "Assets\\_Scriptable_Objects\\MenuPrincipal\\Opciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T04:23:10.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Bloque.cs",
-              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\Bloque.cs",
-              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque.cs",
-              "RelativeToolTip": "Assets\\_Script\\Bloque.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:53:07.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Jugador.cs",
-              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Jugador.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\Jugador.cs",
-              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Jugador.cs",
-              "RelativeToolTip": "Assets\\_Script\\Jugador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T03:07:56.146Z",
+              "WhenOpened": "2024-09-02T02:43:21.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bloque_Piedra.cs",
-              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque_Piedra.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\Bloque_Piedra.cs",
-              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque_Piedra.cs",
-              "RelativeToolTip": "Assets\\_Script\\Bloque_Piedra.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Title": "Bloque.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\Bloque.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque.cs",
+              "RelativeToolTip": "Assets\\_Script\\Bloque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T03:04:46.115Z",
+              "WhenOpened": "2024-08-28T02:53:07.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SliderVelocidad.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuOpciones\\SliderVelocidad.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\MenuOpciones\\SliderVelocidad.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuOpciones\\SliderVelocidad.cs",
+              "RelativeToolTip": "Assets\\_Script\\MenuOpciones\\SliderVelocidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:12:52.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Puntaje.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Puntaje.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\Puntaje.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Puntaje.cs",
+              "RelativeToolTip": "Assets\\_Script\\Puntaje.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T02:04:07.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdministradorVidas.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\AdministradorVidas.cs",
+              "RelativeDocumentMoniker": "Assets\\_Script\\MenuPrincipal\\AdministradorVidas.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\MenuPrincipal\\AdministradorVidas.cs",
+              "RelativeToolTip": "Assets\\_Script\\MenuPrincipal\\AdministradorVidas.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:13:02.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bloque_Madera.cs",
-              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque_Madera.cs",
-              "RelativeDocumentMoniker": "Assets\\_Script\\Bloque_Madera.cs",
-              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Script\\Bloque_Madera.cs",
-              "RelativeToolTip": "Assets\\_Script\\Bloque_Madera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Title": "Opciones.cs",
+              "DocumentMoniker": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Scriptable_Objects\\MenuPrincipal\\Opciones.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scriptable_Objects\\MenuPrincipal\\Opciones.cs",
+              "ToolTip": "C:\\Users\\CGODOY\\OneDrive\\Repositorio\\GitHub\\BreakoutEBAC\\Assets\\_Scriptable_Objects\\MenuPrincipal\\Opciones.cs",
+              "RelativeToolTip": "Assets\\_Scriptable_Objects\\MenuPrincipal\\Opciones.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T03:03:52.98Z",
+              "WhenOpened": "2024-08-30T04:23:10.959Z",
               "EditorCaption": ""
             }
           ]

@@ -59,15 +59,17 @@ public class Puntaje : MonoBehaviour
         }
     }
 
+
+/**
+  * Funcion para llevar el puntaje del juego
+  * 
+  * _Parametros_
+  * 
+  * __puntos__ : _puntaje obtenido que se suma al total ganado_
+  * 
+*/
     public void AumentarPuntaje(int puntos)
     {
         puntajeAltoSO.puntaje += puntos;
     }
-
-
-
-
-
-
-
 }
